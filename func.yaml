@@ -6,7 +6,7 @@ registry: quay.io/lanceball
 image: quay.io/lanceball/viewer:latest
 imageDigest: ""
 buildpacks: []
-builder: s2i
+builder: s2i455
 volumes: []
 buildEnvs: []
 envs: []
