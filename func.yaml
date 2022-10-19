@@ -1,7 +1,7 @@
 specVersion: 0.25.0
 name: viewer
 namespace: ""
-runtime: node
+runtime: nodeJai
 registry: quay.io/lanceball
 image: quay.io/lanceball/viewer:latest
 imageDigest: ""
